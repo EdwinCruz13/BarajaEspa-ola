@@ -1,5 +1,5 @@
 # Baraja Española - C#
-Bienvenido al repositorio de como baraja española.
+Bienvenido al repositorio de como hacer una <b>baraja española</b>.
 <br>
 
 <details open="">
