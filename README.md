@@ -7,7 +7,7 @@ Bienvenido al repositorio de como baraja española.
 <p dir="auto"> 
 <b>Visual Studio 2022</b>
 <br>
-Baraja Española. La baraja española tiene 48 naipes y 2 comodines, repartidos en cuatro palos: oros, copas, espadas y bastos. 
+La baraja española tiene 48 naipes y 2 comodines, repartidos en cuatro palos: oros, copas, espadas y bastos. 
 La baraja de 48 cartas está numerada del 1 al 9, siendo las figuras el 10 (sota), el 11 (caballo) y el 12 (rey). 
 <br><br>
 <b>Tareas</b>
